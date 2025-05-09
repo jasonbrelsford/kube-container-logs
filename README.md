@@ -1,4 +1,4 @@
-# kube-container-logs
+# TESTED WITH FIREFOX ONLY
 kube-container-logs
 
 
